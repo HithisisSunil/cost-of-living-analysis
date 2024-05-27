@@ -7,6 +7,5 @@ This dataset is soruced from Numbeo and it contains 56 columns, including attrib
 
 ## Files in the Repository-
 
-- `CostOfLivingAnalysis.pbix`: The Power BI project file.
 - `data/`: Directory containing the dataset.
 - `README.md`: Overview of the project.
